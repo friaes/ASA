@@ -1,1 +1,1 @@
-# Projects for the ASA course
+# Projects ASA (Analysis and Synthesis of Algorithms)
